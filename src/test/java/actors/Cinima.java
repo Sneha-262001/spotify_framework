@@ -6,5 +6,6 @@ public class Cinima
 	{
 		System.out.println("rajini");
 		System.out.println("hi");
+		System.out.println("bye");
 	}
 }
